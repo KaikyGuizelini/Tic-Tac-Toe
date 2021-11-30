@@ -32,3 +32,11 @@
 .botao:active {
     background: rgba(240, 163, 47, 0.85);
 }
+
+.placar {
+    width: 100%;
+    margin: 0px auto;
+    margin-top: 50px;
+    text-align: center;
+    height: 0px;
+}
